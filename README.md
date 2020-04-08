@@ -1,2 +1,2 @@
 # ExemploTreino
-# Meu exercício em git
+# Meu primeiro exercicio em git
